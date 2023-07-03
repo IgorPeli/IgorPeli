@@ -18,5 +18,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Olá! Sou um estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas. Estou constantemente explorando novas áreas dentro da computação e buscando aprimorar minhas habilidades de programação. Tenho interesse especial em algoritmos, inteligência artificial e desenvolvimento web.
 
