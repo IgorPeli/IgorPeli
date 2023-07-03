@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Igor Peli 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igor_peli)
-
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@IgorResende2)
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorPeli&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que eu uso no meu dia
 
