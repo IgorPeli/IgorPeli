@@ -17,5 +17,3 @@
   <img align="center" alt="github actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div><br/>
 
-Olá! Sou um estudante de Ciência da Computação apaixonado por tecnologia e resolução de problemas. Estou constantemente explorando novas áreas dentro da computação e buscando aprimorar minhas habilidades de programação. Tenho interesse especial em algoritmos, inteligência artificial e desenvolvimento web.
-
